@@ -37,34 +37,6 @@
                     style="stroke: none; fill: #fff;"></path>
             </svg></div>
     </header>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <main>
          <section class="contenedor sobre-nosotros">
             <h2 class="titulo">Mantente asalvo comprardo en linea</h2>
@@ -212,15 +184,6 @@
                 </div>
             </div>
         </section>
-
- 
-                
-             
-            
-
-
-
-                  
            
                 </div>
             </div>
